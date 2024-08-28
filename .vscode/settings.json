@@ -1,0 +1,26 @@
+{
+	"deno.enable": true,
+	"deno.lint": true,
+	"editor.formatOnSave": true,
+	"explorer.fileNesting.enabled": true,
+	"explorer.fileNesting.expand": false,
+	"explorer.fileNesting.patterns": {
+		"*.ts": "${capture}.js,${capture}.gen.ts,${capture}.xpui.ts,${capture}.desktop.ts,${capture}.mix.ts",
+		"*.tsx": "${capture}.js",
+		"*.scss": "${capture}.css",
+		"*.json": "${capture}.d.ts"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "denoland.vscode-deno"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "denoland.vscode-deno"
+	},
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "denoland.vscode-deno"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "denoland.vscode-deno"
+	},
+	"deno.config": "deno.json",
+}

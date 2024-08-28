@@ -1,0 +1,39 @@
+[submodule "Delusoire/cli"]
+	path = Delusoire/cli
+	url = https://github.com/Delusoire/bespoke-cli.git
+[submodule "Delusoire/devtools"]
+	path = Delusoire/devtools
+	url = https://github.com/Delusoire/bespoke-devtools.git
+[submodule "Delusoire/modules"]
+	path = Delusoire/modules
+	url = https://github.com/Delusoire/bespoke-modules.git
+[submodule "Delusoire/worker"]
+	path = Delusoire/worker
+	url = https://github.com/Delusoire/bespoke-worker.git
+[submodule "Delusoire/curator"]
+	path = Delusoire/curator
+	url = https://github.com/Delusoire/curator.git
+[submodule "Delusoire/proxy"]
+	path = Delusoire/proxy
+	url = https://github.com/Delusoire/proxy.git
+[submodule "Delusoire/tailor"]
+	path = Delusoire/tailor
+	url = https://github.com/Delusoire/tailor.git
+[submodule "spicetify/cli"]
+	path = spicetify/cli
+	url = https://github.com/spicetify/cli.git
+[submodule "spicetify/modules"]
+	path = spicetify/modules
+	url = https://github.com/spicetify/modules.git
+[submodule "spicetify/pkgs"]
+	path = spicetify/pkgs
+	url = https://github.com/spicetify/pkgs.git
+[submodule "other/curator"]
+	path = other/curator
+	url = https://github.com/Delusoire/curator.git
+[submodule "other/proxy"]
+	path = other/proxy
+	url = https://github.com/Delusoire/proxy.git
+[submodule "other/tailor"]
+	path = other/tailor
+	url = https://github.com/Delusoire/tailor.git
